@@ -9,13 +9,16 @@ Built as part of a mobile developer internship assignment for **Zorvyn**.
 
 ## 📱 Screenshots
 
-| Home Dashboard | Transactions | Add Transaction |
-|---|---|---|
-| ![Home](screenshots/01_home_dashboard.png) | ![Transactions](screenshots/02_transactions_list.png) | ![Add](screenshots/03_add_transaction.png) |
+<img width="720" height="1604" alt="Home" src="https://github.com/user-attachments/assets/7455b25c-232d-4cf4-9dd3-9f0d6a25aa88" />
+<img width="720" height="1604" alt="Transactions" src="https://github.com/user-attachments/assets/07e09010-25f5-4407-b2ae-332c4c0b205f" />
+<img width="720" height="1604" alt="Add Transaction" src="https://github.com/user-attachments/assets/30002ea5-c051-4a38-b1b6-648d48288d5c" />
+<img width="720" height="1604" alt="Goal" src="https://github.com/user-attachments/assets/52c7675f-9fe4-46a8-b278-220d7174e578" />
+<img width="720" height="1604" alt="Goal Insight" src="https://github.com/user-attachments/assets/c577ebdd-ba93-470b-8e47-158903917110" />
+<img width="720" height="1604" alt="Insights" src="https://github.com/user-attachments/assets/8720089a-0b09-4cf8-8217-dd6d16287bc1" />
 
-| Goals | Insights |
-|---|---|
-| ![Goals](screenshots/04_goals.png) | ![Insights](screenshots/05_insights.png) |
+
+
+
 
 ---
 
