@@ -234,4 +234,4 @@ Android Developer
 
 ## 📄 License
 
-This project was built as an internship assignment submission.
+This project was built for shwowcase my skills.
